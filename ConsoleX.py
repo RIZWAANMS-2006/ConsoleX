@@ -130,4 +130,3 @@ INSTRUCTIONS
 except:
     console.print("UnExpected Error: Try Again\n", style="error")
 quit()
-print()
